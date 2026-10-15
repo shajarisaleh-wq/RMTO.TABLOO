@@ -1,6 +1,5 @@
 streamlit==1.32.0
 pandas==2.2.1
-sqlite3
 jdatetime==4.1.1
 qrcode==7.4.2
 plotly==5.20.0
